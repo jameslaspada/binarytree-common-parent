@@ -25,6 +25,6 @@ Given the following binary tree.
 
 Download Repository
 --------------------- 
-	$ git clone
+	$ git clone git@github.com:jameslaspada/binarytree-common-parent.git
 	
   Execute Junit tests in your IDE.  
