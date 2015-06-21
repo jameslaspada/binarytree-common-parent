@@ -1,4 +1,4 @@
-Binarytree Common Parent
+Binary Tree Common Parent
 ========================
   This is an example of traversing through a binary tree and returning the least common ancestor given the two nodes to search for. 
   
